@@ -1,0 +1,42 @@
+body {
+  background-color: #ECECEC; /* white smoke */
+}
+section {
+    padding-top: 15%;
+}
+p {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  color: white;
+  background-color: #E91D18; /* rouge */
+}
+#nombre {
+    display: block;
+    width: 25%;
+    margin: auto;
+    height: 2em;
+    padding-left: 0.5em;
+}
+#boutonGo {
+    display: block;
+    margin: auto;
+    height: 2em;
+    color: white;
+    background-color: #26A65B; /* vert */
+}
+#resultat {
+    border: 1px solid gray;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    line-height: 2em;
+    padding-left: 0.5em;
+}
+#boutonReset {
+    display: block;
+    margin: auto;
+    height: 2em;
+    color: white;
+    background-color: #F89406; /* orange */
+}
